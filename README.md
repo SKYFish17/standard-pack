@@ -1,2 +1,1 @@
-# standard-pack
-Standard gulp-bulild for projects
+# Gulp-сборка 4.0.2
