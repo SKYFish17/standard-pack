@@ -1,0 +1,12 @@
+// Стили версии для печати
+@import "fonts";
+@import "variables";
+@import "mixins";
+
+.main-header,
+.page-main,
+.main-footer,
+.modal__close,
+button.print-data {
+  display: none;
+}
